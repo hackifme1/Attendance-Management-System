@@ -1,4 +1,4 @@
-# Attendence-Management-System
+# Attendance-Management-System
 ![img](https://github.com/hackifme1/Attendence-Management-System/blob/main/docs/index.PNG)
 
 Enrollment, students, professors, attendance, fees, scheduling, assignments, and grades for a certain institution may all be managed using this online application.
