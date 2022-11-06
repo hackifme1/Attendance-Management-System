@@ -5,16 +5,16 @@ Enrollment, students, professors, attendance, fees, scheduling, assignments, and
 
 The purpose of this application is to automate the existing manual system by the help of computerized equipment and computer software, fulfilling their requirements, so that their valuable information can be stored for a longer period with easy accessing and manipulation of the same.
 
-# Technology and Languagae Used
+# Technology and Language Used
   * NodeJs Framework
   * HTML, CSS, MYSQL, SQL
 
 # Features and Users
 Users include students, staffs(teachers) and admin. Features for the users include:
 
-  * ADMIN who can view and edit the details of any students/staff. Can add/edit departments, courses, classes and time-tables.
-  * STAFF who can view students details, add/update assignments, marks and attendance of a particular student. They can see the time-table of a particular class also.
-  * STUDENT who can update profile/ add solution to assignments and see marks/attendance.
+  - **ADMIN:** who can view and edit the details of any students/staff. Can add/edit departments, courses, classes and time-tables.
+  - **STAFF:** who can view students details, add/update assignments, marks and attendance of a particular student. They can see the time-table of a particular class also.
+  - **STUDENT:** who can update profile/ add solution to assignments and see marks/attendance.
 
 # Login Page
   ## Admin
